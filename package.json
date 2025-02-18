@@ -1,0 +1,23 @@
+{
+  "name": "netflixmovieapp",
+  "version": "1.0.0",
+  "description": "\"\"",
+  "main": "home.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/austinechisutia/natflixMovieApp.git"
+  },
+  "author": "\"\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/austinechisutia/natflixMovieApp/issues"
+  },
+  "homepage": "https://github.com/austinechisutia/natflixMovieApp#readme",
+  "dependencies": {
+    "express.js": "^1.0.0",
+    "nodemon": "^3.1.9"
+  }
+}
